@@ -4,9 +4,9 @@ import FindGameById from "../Components/games/FindGameById";
 import FindGameByTitle from "../Components/games/FindGameByTitle";
 import DeleteGame from "../Components/games/DeleteGame";
 import ElectricGamesHeader from "../Components/ElectricGamesHeader";
-import ezio from "../Images/Ezio-Auditore.png"
-import minecraft from "../Images/Minecraft.png"
-import cyberpunk from "../Images/cyberpunk.png"
+import ezio from "../assets/Ezio-Auditore.png"
+import minecraft from "../assets/Minecraft.png"
+import cyberpunk from "../assets/cyberpunk.png"
 
 const GamesPage = () => {
     return (

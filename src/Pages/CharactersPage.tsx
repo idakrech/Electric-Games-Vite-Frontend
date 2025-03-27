@@ -4,9 +4,9 @@ import FindCharacterById from "../Components/characters/FindCharacterById";
 import FindCharacterByName from "../Components/characters/FindCharacterByName";
 import DeleteCharacter from "../Components/characters/DeleteCharacter";
 import ElectricGamesHeader from "../Components/ElectricGamesHeader";
-import ezio from "../Images/Ezio-Auditore.png"
-import minecraft from "../Images/Minecraft.png"
-import cyberpunk from "../Images/cyberpunk.png"
+import ezio from "../assets/Ezio-Auditore.png"
+import minecraft from "../assets/Minecraft.png"
+import cyberpunk from "../assets/cyberpunk.png"
 
 const CharactersPage = () => {
     return (

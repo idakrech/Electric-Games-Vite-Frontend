@@ -1,4 +1,4 @@
-import ciri from "../Images/ciri.png"
+import ciri from "../assets/ciri.png"
 
 const ElectricGamesHeader = () => {
     return (
